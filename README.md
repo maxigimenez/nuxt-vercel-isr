@@ -1,4 +1,4 @@
-# Nuxt ❤️ Vercel Testing
+# Nuxt ❤️ Vercel Testing222
 
 This is a tiny demo to show off **Nuxt's route rules integration with Vercel**.
 
